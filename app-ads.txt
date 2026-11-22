@@ -1,0 +1,12 @@
+# app-ads.txt — AdMob gelir doğrulaması
+#
+# Bu dosya, mağaza kaydındaki web sitesinin ALAN ADININ KÖKÜNDE yayımlanmalıdır:
+#   https://<alanadiniz>/app-ads.txt
+# GitHub Pages kullanıyorsanız: depo köküne (veya docs/ klasörüne) koyun.
+#
+# Aşağıdaki satırdaki pub- anahtarını AdMob hesabınızdaki yayıncı kimliğiyle
+# değiştirin (AdMob → Ayarlar → Yayıncı kimliği; "pub-################" biçiminde).
+# Kimlik değişene kadar bu dosya ETKİSİZDİR.
+#
+# Biçim:  <reklam ağı>, <yayıncı kimliği>, DIRECT, <sertifika yetkilisi kimliği>
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
