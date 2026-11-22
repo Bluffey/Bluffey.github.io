@@ -1,12 +1,7 @@
-# app-ads.txt — AdMob gelir doğrulaması
+# app-ads.txt — AdMob gelir doğrulama dosyası (Tempona)
 #
-# Bu dosya, mağaza kaydındaki web sitesinin ALAN ADININ KÖKÜNDE yayımlanmalıdır:
-#   https://<alanadiniz>/app-ads.txt
-# GitHub Pages kullanıyorsanız: depo köküne (veya docs/ klasörüne) koyun.
+# Yayında: https://bluffey.github.io/app-ads.txt
+# Play mağaza kaydındaki "web sitesi" alanı https://bluffey.github.io olmalı.
 #
-# Aşağıdaki satırdaki pub- anahtarını AdMob hesabınızdaki yayıncı kimliğiyle
-# değiştirin (AdMob → Ayarlar → Yayıncı kimliği; "pub-################" biçiminde).
-# Kimlik değişene kadar bu dosya ETKİSİZDİR.
-#
-# Biçim:  <reklam ağı>, <yayıncı kimliği>, DIRECT, <sertifika yetkilisi kimliği>
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Birden fazla uygulama/hesap eklerseniz her yayıncı için bir satır ekleyin.
+google.com, pub-9143410914282164, DIRECT, f08c47fec0942fa0
